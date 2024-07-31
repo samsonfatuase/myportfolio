@@ -37,17 +37,27 @@ function About() {
         </div>
         <div className="about-achievements">
         <div className="about-achievement">
-          <h1>10+</h1>
-          <p>YEARS OF EXPERIENCE</p>
+          <h1>5+</h1>
+          <p>YEARS OF EXPERIENCE AS A GRAPHIC DESINGER</p>
         </div>
-        <hr />
+        
         <div className="about-achievement">
-          <h1>90+</h1>
-          <p>PROJECT COMPLETED</p>
+          <h1>60+</h1>
+          <p>PROJECT COMPLETED IN GRAPHICS WORK</p>
+         
         </div>
-        <hr />
         <div className="about-achievement">
-          <h1>15+</h1>
+          <h1>1+</h1>
+          <p>YEARS OF EXPERIENCE AS A FRONTEND DEVELOPER</p>
+          
+        </div>
+        <div className="about-achievement">
+          <h1>1</h1>
+          <p>PROJECT COMPLETED </p>
+        </div>
+        
+        <div className="about-achievement">
+          <h1>45+</h1>
           <p>HAPPY CLEINTS</p>
         </div>
 
