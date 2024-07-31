@@ -18,14 +18,15 @@ const Mywork = () => {
             </div>
             
           ))}
-          <div className="mywork-showmore">
+          
+        </div>
+        <div className="mywork-showmore">
           <a href="https://www.instagram.com/fatuasesamson/" target="_blank" rel="noopener noreferrer">
             <p>showmore</p>
             <FaArrowRight />
           </a>
 
           </div>
-        </div>
 
 
     </div>

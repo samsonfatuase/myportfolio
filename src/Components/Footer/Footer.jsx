@@ -10,13 +10,6 @@ const Footer = () => {
             <p>Try working with us today to enjoy the best of our work.</p>
             
            </div>
-           <div className="footer-top-right">
-            <div className="footer-email-input">
-                <input type="email" placeholder='Enter Your Email' />
-
-            </div>
-            <div className="footer-subscribe">subscribe</div>
-           </div>
 
         </div>
         <hr />

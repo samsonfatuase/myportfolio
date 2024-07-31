@@ -63,7 +63,7 @@ transition: 0.3s;
 
 @media (max-width:768px){
     .mywork{
-        align-items: center;
+        align-items: start;
         gap: 50px;
         margin: 50px 70px;
     }
@@ -83,11 +83,11 @@ transition: 0.3s;
     }
 
     .mywork-showmore{
-        padding: 10px;
+        /* padding: px; */
         font-size: 18px;
-        margin: 50px auto;
+        margin: 50px;
         cursor: pointer;
-        width: 100%;
+        /* width: 100%; */
     }
 
     .mywork-showmore a{
