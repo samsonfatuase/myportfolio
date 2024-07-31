@@ -109,7 +109,7 @@
     }
     .about-skills{
         gap: 20px;
-        /* align-items: center; */
+        align-items: center;
     }
     .about-skill p{
         font-size: 20px;
