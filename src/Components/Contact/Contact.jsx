@@ -41,11 +41,16 @@ const Contact = () => {
                         </div>
                         <div className="contact-detail">
                             <BsTelephoneOutbound />
-                            <p>09063699768</p>
+                            <a href="tel:09063699768" className="phone-link">09063699768</a>
                         </div>
+
                         <div className="contact-detail">
-                            <FaWhatsapp />
-                            <p>09063699768</p>
+                        <FaWhatsapp /> 
+                        <a href="https://wa.me/message/FQLIUFZJGPMGM1" target="_blank" rel="noopener noreferrer" className="phone-link">
+                            <p className="phone-link">09063699768</p>
+                        </a>
+                        
+
                         </div>
                     </div>
                 </div>

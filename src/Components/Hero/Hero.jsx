@@ -11,7 +11,7 @@ const Hero = () => {
           A graphics and frontend developer based in Ado Ekiti
         </h1>
         <p>I engage in online design and also printing of designed work
-            with 10 years experience and also customer friendly
+            with over 5 years experience and also customer friendly
         </p>
         <div className="hero-action">
           <div className="hero-connect">

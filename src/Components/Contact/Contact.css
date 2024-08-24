@@ -56,6 +56,17 @@
     gap: 20px;
 }
 
+.phone-link {
+    text-decoration: none;
+    color:#ffff;
+}
+
+.phone-link:hover {
+    color: #007BFF; /* Change color on hover */
+}
+
+
+
 .contact-right{
     display: flex;
     flex-direction: column;
