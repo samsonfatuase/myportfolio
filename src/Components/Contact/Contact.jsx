@@ -46,7 +46,7 @@ const Contact = () => {
 
                         <div className="contact-detail">
                         <FaWhatsapp /> 
-                        <a href="https://wa.me/message/FQLIUFZJGPMGM1" target="_blank" rel="noopener noreferrer" className="phone-link">
+                        <a href="https://wa.me/+2349063699768" target="_blank" rel="noopener noreferrer" className="phone-link">
                             <p className="phone-link">09063699768</p>
                         </a>
                         
