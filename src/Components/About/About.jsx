@@ -14,8 +14,9 @@ function About() {
             </div>
             <div className="about-right">
               <div className="about-para">
-                <p>Hello, I'm Samson Fatuase , a passionate and creative Graphic Designer and Frontend Developer. 
-                  With over 5 years of experience in graphic design and 2 years in frontend development, I have 
+                <p>Hello, I'm SAMSON FATUASE, a 30 years old passionate and creative Graphic Designer and Frontend Developer. 
+                  I hail from Ogotun EKiti located in EKiti South West Local Government. 
+                  With over 3 years of experience in graphic designing and 1 year in frontend development. I have 
                   honed my skills to deliver visually stunning and user-friendly digital experiences.As a Graphic Designer, I've 
                   worked on a diverse range of projects, from branding and print media to digital marketing and UI design. My keen 
                   eye for detail and dedication to crafting compelling visuals have enabled me to create designs that not only look 
@@ -28,16 +29,17 @@ function About() {
                   with cross-functional teams to create innovative solutions that exceed client expectations. Let's create something amazing together!</p>
               </div>
               <div className="about-skills">
-                <div className="about-skill"><p>corelDRAW</p> <hr style={{width:'50%'}} /></div>
-                <div className="about-skill"><p>Photoshop</p> <hr style={{width:'70%'}} /></div>
-                <div className="about-skill"><p>HTML&CSS</p> <hr style={{width:'60%'}} /></div>
+                <div className="about-skill"><p>corelDRAW</p> <hr style={{width:'95%'}} /></div>
+                <div className="about-skill"><p>Photoshop</p> <hr style={{width:'80%'}} /></div>
+                <div className="about-skill"><p>Figma</p> <hr style={{width:'70%'}} /></div>
+                <div className="about-skill"><p>HTML&CSS</p> <hr style={{width:'50%'}} /></div>
                 <div className="about-skill"><p>React Js</p> <hr style={{width:'50%'}} /></div>
               </div>
             </div>
         </div>
         <div className="about-achievements">
         <div className="about-achievement">
-          <h1>5+</h1>
+          <h1>3+</h1>
           <p>YEARS OF EXPERIENCE AS A GRAPHIC DESINGER</p>
         </div>
         
